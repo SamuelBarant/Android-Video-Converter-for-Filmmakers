@@ -63,9 +63,9 @@ This project was developed as:
 
 ---
 
-## 📸 Screenshots
+## 📸 Temporal Interface
+<img width="726" height="783" alt="image" src="https://github.com/user-attachments/assets/ce6be9a6-9934-487f-8e0b-b31bde727056" />
 
-> _Screenshots will be added soon_
 
 ---
 
