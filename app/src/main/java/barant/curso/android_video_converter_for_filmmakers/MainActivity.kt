@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import barant.curso.android_video_converter_for_filmmakers.ui.theme.AndroidVideoConverterforFilmmakersTheme
+import barant.curso.android_video_converter_for_filmmakers.core.presentation.ui.theme.AndroidVideoConverterforFilmmakersTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
